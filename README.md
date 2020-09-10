@@ -19,7 +19,7 @@ I'm Mexican developer for 5 years
 
 
 ![alexlarraga1's github stats](https://github-readme-stats.vercel.app/api?username=alexlarraga1&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexlarraga1&layout=compat&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexlarraga1&layout=compact&theme=radical)
 
 
 <!--
