@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![alexlarraga1's github stats](https://github-readme-stats.vercel.app/api?username=alexlarraga1&show_icons=true&theme=radical)
 <!--
 **alexlarraga1/alexlarraga1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
