@@ -18,8 +18,8 @@ I'm Mexican developer for 5 years
 
 
 
-![alexlarraga1's github stats](https://github-readme-stats.vercel.app/api?username=alexlarraga1&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexlarraga1&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![alexlarraga1's github stats](https://github-readme-stats.vercel.app/api?username=alexlarraga1&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexlarraga1&layout=compact&theme=radical)
 
 
 <!--
