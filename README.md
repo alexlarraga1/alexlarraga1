@@ -1,6 +1,13 @@
-### Hi, Im Alex Escobar 👋
+### Hi, Im [Alex Escobar!](https://alex-escobar.com) 👋
 
 I'm Mexican developer for 5 years
+
+<a href="https://twitter.com/AlexEsLa">
+  <img align="left" alt="Alex Escobar | Twitter" width="21px" src="https://raw.githubusercontent.com/alexlarraga1/alexlarraga1/master/assets/twitter.svg" />
+</a>
+<br/>
+<br/>
+
 
 - 🔭 I’m currently working on SFINX SA de CV
 - 💬 Ask me about Android and NXP integrations(in C, C++, C# Android) 
