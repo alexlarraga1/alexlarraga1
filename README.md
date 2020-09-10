@@ -7,6 +7,7 @@ I'm Mexican developer for 5 years
 - 📫 How to reach me: [Twitter](https://twitter.com/AlexEsLa)
 
 ![alexlarraga1's github stats](https://github-readme-stats.vercel.app/api?username=alexlarraga1&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexlarraga1)
 
 
 <!--
