@@ -2,6 +2,9 @@
 
 I'm Mexican developer for 5 years
 
+<a href="https://instagram.com/alex.es.la">
+  <img align="left" alt="Alex Escobar | Instagram" width="20px" src="https://raw.githubusercontent.com/alexlarraga1/alexlarraga1/master/assets/instagram.png" />
+</a>
 <a href="https://twitter.com/AlexEsLa">
   <img align="left" alt="Alex Escobar | Twitter" width="21px" src="https://raw.githubusercontent.com/alexlarraga1/alexlarraga1/master/assets/twitter.svg" />
 </a>
@@ -14,7 +17,7 @@ I'm Mexican developer for 5 years
 - 📫 How to reach me: [Twitter](https://twitter.com/AlexEsLa)
 
 ![alexlarraga1's github stats](https://github-readme-stats.vercel.app/api?username=alexlarraga1&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexlarraga1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexlarraga1&theme=radical)
 
 
 <!--
