@@ -1,9 +1,13 @@
 ### Hi, Im Alex Escobar 👋
-![alexlarraga1's github stats](https://github-readme-stats.vercel.app/api?username=alexlarraga1&show_icons=true&theme=radical)
+
+I'm Mexican developer for 5 years
 
 - 🔭 I’m currently working on SFINX SA de CV
 - 💬 Ask me about Android and NXP integrations(in C, C++, C# Android) 
 - 📫 How to reach me: [Twitter](https://twitter.com/AlexEsLa)
+
+![alexlarraga1's github stats](https://github-readme-stats.vercel.app/api?username=alexlarraga1&show_icons=true&theme=radical)
+
 
 <!--
 **alexlarraga1/alexlarraga1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
