@@ -13,7 +13,7 @@ I'm Mexican developer for 5 years
 
 
 - 🔭 I’m currently working on SFINX SA de CV
-- 💬 Ask me about Android and NXP integrations(in C, C++, C# Android) 
+- 💬 Ask me about MIFARE NXP integrations(in C, C++, C#, Java and Android) 
 - 📫 How to reach me: [Twitter](https://twitter.com/AlexEsLa)
 
 
