@@ -1,6 +1,6 @@
 ### Hi, Im [Alex Escobar!](https://alex-escobar.com) 👋
 
-I'm Mexican developer for 5 years
+I'm Mexican developer for 9 years
 
 <a href="https://instagram.com/alex.es.la">
   <img align="left" alt="Alex Escobar | Instagram" width="20px" src="https://raw.githubusercontent.com/alexlarraga1/alexlarraga1/master/assets/instagram.png" />
@@ -18,7 +18,8 @@ I'm Mexican developer for 5 years
 
 
 
-![alexlarraga1's github stats](https://github-readme-stats.vercel.app/api?username=alexlarraga1&show_icons=true&theme=radical)
+![alexlarraga1's github stats](https://github-readme-stats.vercel.app/api?username=alexlarraga1&show_icons=true&theme=radical&include_all_commits=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexlarraga1&layout=compact&theme=radical)
 
 
