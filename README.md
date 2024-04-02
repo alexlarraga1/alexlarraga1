@@ -16,7 +16,7 @@ I'm Mexican developer for 9 years
 - 💬 Ask me about MIFARE NXP integrations(in C, C++, C#, Java and Android) 
 - 📫 How to reach me: [Twitter](https://twitter.com/AlexEsLa)
 
-
+https://github-readme-stats.vercel.app/api?username=alexlarraga1&show_icons=true&theme=radical&include_all_commits=true
 
 ![alexlarraga1's github stats](https://github-readme-stats.vercel.app/api?username=alexlarraga1&show_icons=true&theme=radical&include_all_commits=true)
 
