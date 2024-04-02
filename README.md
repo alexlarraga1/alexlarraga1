@@ -14,10 +14,8 @@ I'm Mexican developer for 9 years
 
 - 🔭 I’m currently working on SFINX SA de CV
 - 💬 Ask me about MIFARE NXP integrations(in C, C++, C#, Java and Android) 
-- 📫 How to reach me: [Twitter](https://twitter.com/AlexEsLa)
-
-https://github-readme-stats.vercel.app/api?username=alexlarraga1&show_icons=true&theme=radical&include_all_commits=true
-
+- 📫 How to reach me: [Twitter](https://twitter.com/AlexEsLa)'
+  
 ![alexlarraga1's github stats](https://github-readme-stats.vercel.app/api?username=alexlarraga1&show_icons=true&theme=radical&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexlarraga1&layout=compact&theme=radical)
