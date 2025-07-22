@@ -17,7 +17,11 @@ I'm Mexican developer for 9 years
 - 📫 How to reach me: [Twitter](https://twitter.com/AlexEsLa)'
   
 ![alexlarraga1's Stats](https://github-readme-stats.vercel.app/api?username=alexlarraga1&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+
+
 ![alexlarraga1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexlarraga1&theme=dracula&hide_border=true)
+
+
 ![alexlarraga1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexlarraga1&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 
